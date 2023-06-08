@@ -1,2 +1,3 @@
 # colab-test
-Copies from Google Colab
+
+A repo that contains basic Google Colab codes
